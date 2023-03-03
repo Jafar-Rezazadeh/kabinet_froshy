@@ -1,7 +1,7 @@
 # kabinet_froshy
 
 ### Windows platform application made by flutter framework(Dart Language)
-## Made by Jafar.Rezazadeh contact me: https://jafarrezazadeh76@gmail.com
+## Made by Jafar.Rezazadeh, contact me: https://jafarrezazadeh76@gmail.com
 
 ### Preview
 
