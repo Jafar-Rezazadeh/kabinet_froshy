@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/59100135/214051072-b0adefc6-5f7a-459c-
 ### how to use:
 
 ** fist of all the main folder should be named kabinet_froshy **
-if you download a zip file of this project and extract it, the folder name will be ```kabinet_froshy-main``` change it to ```kabinet_froshy``` and then follow the steps.
+if you download a zip file of this project and extract it, if the folder name is ```kabinet_froshy-main``` or any thing else change it to ```kabinet_froshy``` and then follow the steps.
 
 ### you need to connect to internet (if you need vpn, use it :])
 
