@@ -22,7 +22,7 @@ if you download a zip file of this project and extract it, if the folder name is
 
 - #### step 1: run the ``` flutter pub get ```
 
-- #### step 2: run the ``` flutter create --platforms=windows .``` 
+- #### step 2: run the ``` flutter create --platforms=windows . ```  or ``` flutter create windows ```
 - the above command will create a folder called Windows
 
 - #### step 3: go to ``` windows/runner/main.cpp ``` and add this code on top of the file
